@@ -1,0 +1,6 @@
+fitparse==1.2.0
+geopy==2.4.1
+gpxpy==1.6.2
+pandas==2.2.3
+plotly==6.0.1
+streamlit==1.45.0
